@@ -45,7 +45,7 @@ The Contract Monthly Claim System (CMCS) is a comprehensive web-based applicatio
 4. **Upload Documents**: Attach supporting documents for your claim
 5. **Track Status**: Monitor your claim's progress through the approval workflow
 
-### For Programme coodinator/Acadeimic manager
+### For Programme coodinator/Academic manager
 
 1. **Login**: Use your administrator credentials
 2. **Review Claims**: Access the approval dashboard to review pending claims
